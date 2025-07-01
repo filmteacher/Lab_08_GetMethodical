@@ -7,7 +7,8 @@ import java.util.Scanner;
 
 public class BirthDateTime
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Scanner in = new Scanner(System.in);
         int year = 0;
         int month = 0;
